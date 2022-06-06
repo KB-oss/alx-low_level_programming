@@ -4,10 +4,10 @@
 
 
 /**
- * * main - Determines the positive, zero and negative.
- * *
- * * Return : Always 0 (Success)
- * */
+ * main - Determines the positive, zero and negative.
+ *
+ * Return : Always 0 (Success)
+ */
 
 int main(void)
 	
